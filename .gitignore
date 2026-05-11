@@ -1,4 +1,6 @@
-# Large model and video files
+*.pt
 *.mp4
 *.webm
-*.ptCLAUDE.md
+__pycache__/
+*.pyc
+CLAUDE.md
